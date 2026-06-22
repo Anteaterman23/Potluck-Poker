@@ -1,6 +1,8 @@
 # Potluck Poker
 
-Potluck Poker is an original, terminal-based card game. It started as a personal project to see how many original card game concepts I could come up with and implement in Python. Currently, the game features two gamemodes - **Classic** and **Round-Robin** - with the latter still being a work-in-progress.
+Potluck Poker is an original, terminal-based card game - or rather, a bunch of them. It started as a personal project to see how many original card game concepts I could come up with and implement in Python. Currently, the game features two gamemodes - **Classic** and **Round-Robin** - with the latter still being a work-in-progress.
+
+While the exact details of games differ greatly frome one to another, all of the games share common motifs like card arithmetic, enumeration of cards into a centralized pot, and the ability to modify the value of said pot.
 
 ## How to Play
 
@@ -25,7 +27,7 @@ At the end of Round 5, the player with the smaller Pot must pay out the differen
 
 ### Round-Robin
 
-WIP
+[[WIP]]
 
 ## How to Run
 
